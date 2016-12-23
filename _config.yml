@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "学习, 工作, 生活"
+keywords: Testing
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -116,8 +116,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/jarsonfang
-  知乎: https://www.zhihu.com/people/jarson-fang
+  GitHub: https://github.com/jarsonfang/etesting/
+  Estuary.org: http://open-estuary.org/
+  Estuary.github: https://github.com/open-estuary/
 
 # Social Links Icons
 # Icon Mapping:
@@ -135,7 +136,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-avatar: /images/avatar.jpg
+avatar: /images/avatar.png
 
 # Table Of Contents in the Sidebar
 toc:
@@ -173,12 +174,6 @@ links:
   #Title: http://example.com/
   ABS: http://tldp.org/LDP/abs/html/
   ProGit: http://git-scm.com/book/zh/
-  DevBean: https://www.devbean.net/
-  CoolShell: http://coolshell.cn/
-  Rust-Book: https://doc.rust-lang.org/book/
-  Rust-庄晓立: http://blog.csdn.net/liigo/
-  Rust-中文社区: https://github.com/rustcc/
-  蜗窝科技: http://www.wowotech.net/
   Hexo: https://hexo.io/
   NexT: http://theme-next.iissnan.com/
   Mastering-Markdown: https://guides.github.com/features/mastering-markdown/
@@ -236,7 +231,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: jarsonfang
+duoshuo_shortname: estuary
 
 # Disqus
 #disqus_shortname:
